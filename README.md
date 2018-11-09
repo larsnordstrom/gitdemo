@@ -1,5 +1,5 @@
 # gitdemo
-This my first repo using git.
+This my first repo using git, this is just for fun.
 
 ## Description of today
 * change file
