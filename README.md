@@ -6,4 +6,5 @@ This my first repo using git, this is just for fun.
 * add file to staging
 * commit file with a message
 * push file to github
+
 * my first commit
