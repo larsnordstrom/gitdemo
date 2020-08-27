@@ -1,0 +1,22 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "My new sexy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsnordstrom/mywebsite.git"
+  },
+  "author": "Lars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsnordstrom/mywebsite/issues"
+  },
+  "homepage": "https://github.com/larsnordstrom/mywebsite#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
